@@ -1,0 +1,5 @@
+S~ali~yilmaz~12345678902~a~a1~1995~d3~ders3~d13~ders13~d5~ders5~d1~ders1
+T~fatma~yilmaz~98765432100~fatma1~fatma123
+A~ibrahim~yilmaz~91827364500~i~i1
+S~hasan~efdsfds~123456~h~h3~1995~d13~ders13~d3~ders3~d4~ders4~d5~ders5
+C~d3~ders3~true~d13~ders13~true~d5~ders5~true~d1~ders1~true~d4~ders4~true~d2~ders2~true~d6~ders6~true~d44~ders44~true~l1~lecture1~false
